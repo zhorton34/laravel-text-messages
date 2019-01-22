@@ -1,6 +1,5 @@
 {
     "name": "clean-code-studio/laravel-text-messages",
-    "type": "project",
     "description": "Laravel SMS and MMS Package for Sending Text Messages To Users Without needing a 3rd party API",
     "license": "MIT",
     "keywords": ["laravel", "sms", "text messages", "package", "free text messages", "laravel text messages", "laravel sms", "laravel mms", "clean code studio"],
