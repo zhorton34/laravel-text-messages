@@ -1,6 +1,6 @@
 <?php
 
-namespace CleanCodeStudio\LaravelTextMessages\Providers;
+namespace CleanCodeStudio\LaravelTextMessages;
 
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 
